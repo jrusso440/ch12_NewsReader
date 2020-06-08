@@ -1,0 +1,4 @@
+#Mon Jun 08 10:35:35 EDT 2020
+base.0=C\:\\Users\\jruss\\Dropbox\\new course files\\summer 2020\\cs683\\murach\\murach_android_programming_2e_ig\\android\\book_apps\\ch12_NewsReader\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
